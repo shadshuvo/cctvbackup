@@ -1,4 +1,4 @@
-# 📹 Auto-Sync CCTV to Google Drive (aaPanel + Rclone)
+# 📹 Auto-Sync CCTV to Google Drive (Rclone) can use any cloud from Rclone
 
 A lightweight, automated pipeline designed to bridge local CCTV FTP storage (NVR) with Google Drive. This project ensures local server storage never exceeds capacity while maintaining a 30-day rolling cloud archive.
 
